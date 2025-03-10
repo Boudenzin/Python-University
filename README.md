@@ -9,7 +9,7 @@ Bem-vindo ao **PythonExercises**! Este repositório é uma coleção de exemplos
 O repositório está organizado da seguinte forma:
 
 ```
-PythonUniversity/
+PythonExercises/
 ├── basics/                  # Conceitos básicos de Python
 │   ├── variables/           # Exemplos com variáveis
 │   ├── strings/             # Manipulação de strings
